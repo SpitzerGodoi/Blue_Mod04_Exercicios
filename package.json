@@ -1,0 +1,22 @@
+{
+  "name": "blue_mod04_exercicios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpitzerGodoi/Blue_Mod04_Exercicios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpitzerGodoi/Blue_Mod04_Exercicios/issues"
+  },
+  "homepage": "https://github.com/SpitzerGodoi/Blue_Mod04_Exercicios#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
